@@ -1,0 +1,4 @@
+LR
+==
+
+aprendiendo rails
