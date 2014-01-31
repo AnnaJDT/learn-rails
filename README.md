@@ -1,4 +1,1 @@
-LR
-==
-
-aprendiendo rails
+learn-rails
